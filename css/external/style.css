@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+/*Design by : http://http://www.squarebrothers.com/,
+sitename  : http://www.asnsbnr.org/, 
+Authour Name : E.Lakshmipathy /,
+*/
+
+body {
+margin: 0;
+padding: 0;
+font:12px/16px  Arial, Helvetica, sans-serif;
+color:#3a3b3b;
+background:#e8f2f1;
+}
+img {
+border:0px;
+}
+.main_tab {
+width:960px;
+/*background:#FFF;*/
+}
+/*HEADER CODE COMES HERE*/
+.top_bg {
+background:url(../images/bg.gif) repeat-x;
+height:450px;
+} 
+
+.logo {
+margin:0px 0 18px 10px;
+float:left;
+}
+.top_mail {
+margin:33px 20px 0 0;
+font-size:14px;
+/*font-weight:bold;*/
+width:190px;
+float:right;
+}
+.top_mail span {
+font-weight:bold;
+font-size:18px;
+color:#FFF;
+}
+.top_mail a {
+text-decoration:none;
+color:#d84b08;
+}
+.top_mail a:hover {
+text-decoration:none;
+color:#fbe057;
+}
+/*HEADER CODE END HERE*/
+
+/*LINK MENU COMES HERE CODE*/
+
+#menu {
+width:960px;
+height:46px;
+}
+#menu ul {
+margin:0;
+padding:0;
+}
+#menu li {
+list-style:none;
+float:left;
+margin:0;
+padding:0;
+}
+
+/*LINK MENU END HERE CODE*/
+
+/*BODY CODE SET COMES HERE*/
+
+/*HEADING CODE COMES HERE*/
+
+h1 {
+margin:10px;
+padding:5px;
+font-weight:bold;
+color:#0b6164;
+font-size:22px;
+}
+
+/*HEADING CODE END HERE*/
+
+#run_text {
+margin:0 40px 15px 35px;
+text-align:justify;
+/*width:885px;*/
+}
+.ser {
+margin:0 40px 15px 35px;
+width:780px;
+}
+.ser ul {
+margin:5px 0 0 0;
+padding:5px 0 0 0px;
+}
+.ser li {
+margin:5px 0 0 0;
+padding:3px 5px 3px 5px;
+list-style:none;
+}
+.ser li div {
+background:url(../images/arrow.gif) no-repeat;
+margin:3px 5px 3px 5px;
+width:16px;
+height:18px;
+float:left;
+}
+.in_tex {
+color:#1c7f89;
+font-weight:bold;
+}
+.accred {
+color:#ab150a;
+font-weight:bold; 
+font-size:14px;
+}
+.acc_un {
+text-decoration:underline;
+margin-bottom:5px;
+color:#f88f09;
+font-weight:bold;
+}
+.dect {
+font-weight:bold;
+font-size:14px;
+color:#226d70;
+height:30px; 
+}
+.f2 {
+margin-bottom:5px;
+color:#f88f09;
+font-weight:bold;
+}
+.tex_new {
+margin:0 40px 15px 55px;
+text-align:justify;
+width:865px;
+}
+.tex_new ol {
+margin:0;
+padding:0;
+}
+.tex_new li {
+list-style:decimal;
+margin:5px;
+padding:0;
+}
+.down {
+background:url(../images/down.gif) no-repeat;
+margin:5px 3px 0 5px;
+width:24px;
+height:24px;
+float:left;
+}
+.down_tex {
+font-weight:bold;
+margin-top:8px;
+width:300px;
+float:left;
+}
+.down_tex a {
+text-decoration:none;
+color:#236f71;
+}
+.down_tex a:hover {
+text-decoration:none;
+color:#f75205;
+}
+
+.cntact {
+margin:20px 40px 15px 35px;
+float:left;
+width:300px;
+}
+.cntact a {
+text-decoration:none;
+color:#FF6600;
+}
+.cntact a:hover {
+text-decoration:none;
+color:#106669;
+}
+
+/*BODY CODE SET END HERE*/
+
+/*FOTTER CODE COMES HERE*/
+
+.fot_bg {
+background:#d8e4e4;
+height:120px;
+color:#0c5d61;
+}
+.add {
+margin:5px 0 0 15px;
+float:left;
+width:320px;
+}
+
+.host {
+margin:30px 5px 0 0 ;
+width:310px;
+float:right;
+}
+.host a {
+text-decoration:none;
+color:#c60000;
+}
+.host a:hover {
+text-decoration:none;
+color:#540357;
+}
